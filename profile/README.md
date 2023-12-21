@@ -1,4 +1,4 @@
-![Baner](https://i.imgur.com/qfRkMnU.jpg)
+![Baner](https://i.imgur.com/EzQGce4.png)
 
 <h1 align='center'>Studenciaki z Polibudy</a></h1><p align='center'>
 
@@ -15,7 +15,10 @@ Kolaburując do organizacji (dodawając foldery/pliki z kodem), proszę używać
 - Fajnie by było jakbyś dodał plik `README.md` z opisem kodu.
 - Nie dodawaj bezpośrednio do gałęzi `main`, stwórz nowy branch (gałąź) i zrób **pull request**:
   Tutorial:
-  ![Tutorial](https://glowing-buttercream-33c37f.netlify.app/videos/polibuda/pull-request-tutorial.mp4)
+
+https://github.com/polibuda-studenciaki/.github/assets/55363403/6f0be5ab-f135-45bb-903c-421bd6f0e344
+
+
 
 ## 📚 Zasoby
 
